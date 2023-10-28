@@ -1,13 +1,13 @@
 
 a:hover{
-    color:rgb(26, 82, 63);
+    color:green;
     text-decoration: underline;
     text-decoration-color:rgb(132, 143, 143) ;
     text-underline-offset: 1rem;
 
 }
 a:focus{
-    color:rgb(177, 98, 250);
+    color:rgb(223, 166, 23);
 }
 
 h1{
@@ -15,7 +15,6 @@ h1{
     line-height:1.3em;
     font-weight:bold;
     letter-spacing:-.5px;
-    padding: .75em 0;
     width: auto;
     display: inline-block;
     position: relative;
@@ -27,9 +26,11 @@ h1{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding:0.75rem;
 } 
 a{
+    color:beige;
    text-decoration: none;
    margin-right: 1rem;
-  font-weight: bold;
+  font-weight: 300;
 }
