@@ -8,9 +8,9 @@ const Projects = () => {
         <span className='projectDesc'> These are the projects that I have worked on so far. They have helped me in perfecting my skills</span>
         <div className='projectImages'>
 
-            <img src="./images/image2.jpg" alt=""  className='projectImage' />
-            <img src="./images/image2.jpg" alt=""  className='projectImage' /> 
-            <img src="./images/image2.jpg" alt=""  className='projectImage' />
+            <img src="./images/Budget-allocation-app.png" alt=""  className='projectImage' />
+            <img src="./images/notes-app.png" alt=""  className='projectImage' /> 
+            <img src="./images/blog-post-app.png" alt=""  className='projectImage' />
 
         </div>
     </section>

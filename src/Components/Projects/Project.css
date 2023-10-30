@@ -29,7 +29,9 @@
 .projectImage{
     object-fit: cover;
     height:20rem;
+    width:80%;
     margin:0.5rem;
+    border:1px solid ;
 }
 @media screen and (max-width:585px){
     .projectImage{
